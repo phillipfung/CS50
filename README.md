@@ -1,7 +1,7 @@
 # CS50
 CS50 Coursework
 
-I've created this repository to store my projects as I begin the CS50 Introduction to Computer Science course through Harvard
+I've created this repository to store my projects as I complete Harvard University's 2020 CS50 Introduction to Computer Science course
 
 Week 0 Scratch 😺
 
